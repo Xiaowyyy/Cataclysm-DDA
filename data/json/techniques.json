@@ -135,9 +135,9 @@
     "crit_tec": true,
     "reach_ok": true,
     "flat_bonuses": [
-      { "stat": "arpen", "type": "bash", "scaling-stat": "melee", "scale": 2.0 },
-      { "stat": "arpen", "type": "cut", "scaling-stat": "melee", "scale": 2.0 },
-      { "stat": "arpen", "type": "stab", "scaling-stat": "melee", "scale": 2.0 }
+      { "stat": "arpen", "type": "bash", "scaling-stat": "melee", "scale": 2.5 },
+      { "stat": "arpen", "type": "cut", "scaling-stat": "melee", "scale": 2.5 },
+      { "stat": "arpen", "type": "stab", "scaling-stat": "melee", "scale": 2.5 }
     ],
     "messages": [ "You find a weak spot in %s's armor", "<npcname> finds a weak spot in %s's armor!" ],
     "description": "Increase armor penetration by 2 times melee skill",
